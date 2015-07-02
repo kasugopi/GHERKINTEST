@@ -1,0 +1,4 @@
+GIVEN I have 2 files
+select one file
+WHEN Select file_1
+THEN you selected file_1
